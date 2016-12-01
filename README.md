@@ -1,4 +1,4 @@
-# Blog templete using Ruby on Rail
+# Blog template using Ruby on Rail
 ### (Without bootsrap formatting)
 
 ### Hosted on herukuapp and accessible at 
